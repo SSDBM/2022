@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Conference Venue
-
+TBA
 <!--
 <b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
 

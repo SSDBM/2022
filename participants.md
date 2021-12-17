@@ -3,9 +3,8 @@ title: Information for Participants
 layout: default
 ---
 
-
 # Information for Participants
-
+TBA
 <!--
 **SSDBM 2020 will be an online event.**
 

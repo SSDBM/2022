@@ -5,7 +5,7 @@ layout: default
 
 # Call for Sponsors
 
-We are seeking the sponsorship of companies for the [34rd International Conference on Scientific and Statistical Database Management (SSDBM 2022)](http://ssdbm2022.github.io/) to be held at the University of Copenhagen, Copenhagen, Denmark.
+We are seeking the sponsorship of companies for the [34th International Conference on Scientific and Statistical Database Management (SSDBM 2022)](https://ssdbm.org/2022/) to be held at the University of Copenhagen, Copenhagen, Denmark.
 
 We offer the following sponsorship packages:
 
