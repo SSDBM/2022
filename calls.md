@@ -9,7 +9,9 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2022 will be hosted by the University of Copenhagen and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas.
 
-**This year the focus is on climate changes and sustainability, with a special emphasis on technologies and systems to provide an efficient use of infrastructures, resources, and services in order to guarantee sustainable and inclusive growth, sustainable urban–rural transformation through decarbonization, confront climate risks, etc. The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.**
+**This year the focus is on climate changes and sustainability, with a special emphasis on technologies and systems to provide an efficient use of infrastructures, resources, and services in order to guarantee sustainable and inclusive growth, sustainable urban–rural transformation through decarbonization, confront climate risks, etc.**
+
+The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
 
 Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
 
