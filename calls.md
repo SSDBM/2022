@@ -38,9 +38,7 @@ Topics of particular interest include, but are not limited to, the following, as
 - Smart city applications and services
 
 ## Submission Guidelines
-We solicit full papers (12 pages including references and appendices), short papers (4 pages including references and appendices) and demo papers (4 pages). The full papers tend to be descriptions of complete technical work, while the short papers tend to be descriptions of interesting, innovative ideas, which nevertheless require more work to mature. The program committee may decide to accept some full papers as short papers. All papers, regardless of size, will be given an entry in the conference proceedings. Authors may optionally include reproducibility information that allows for automated validation of experimental results (see artifact evaluation criteria).
-
-Accepted submissions passing automated validation will earn a prestigious “Results Replicated” Badge in the ACM DL in accordance with ACM’s artifact review and badging policy.
+We solicit full papers (12 pages including references and appendices), short papers (4 pages including references and appendices) and demo papers (4 pages). The full papers tend to be descriptions of complete technical work, while the short papers tend to be descriptions of interesting, innovative ideas, which nevertheless require more work to mature. The program committee may decide to accept some full papers as short papers. All papers, regardless of size, will be given an entry in the conference proceedings.
 
 Please use the following URL link for submissions of papers: [Easychair](https://easychair.org/conferences/?conf=ssdbm2022).
 
