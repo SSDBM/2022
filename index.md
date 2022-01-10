@@ -30,8 +30,8 @@ The best papers will be considered for publication in the Distributed and Parall
 **General Chair**  
 Yongluan Zhou, University of Copenhagen<br>
 
-**Program Chairs**  
-Elaheh Pourabbas, National Research Council of Italy<br>
+**Program Chair**
+Elaheh Pourabbas, CNR- National Research Council of Italy<br>
 
 **Demo Chair**  
 TBD<br>
