@@ -5,13 +5,16 @@ layout: default
 
 # Research and Demo Program Committee
 To be completed<br>
+**Peter Baumann** Jacobs University Bremen<br>
 **Khalid Belhajjame** PSL, Université Paris-Dauphine, LAMSADE, France<br>
 **Ladjel Bellatreche** ISAE-ENSMA, Poitiers University, France<br>
+**Jean Luca Bez** Lawrence Berkeley National Laboratory<br>
 **Souvik Bhattacherjee** University of Maryland<br>
 **Tamas Budavari** The Johns Hopkins University<br>
 **Klemens Böhm** Karlsruhe Institute of Technology<br>
 **Amit Chavan** University of Maryland<br>
 **Shawfeng Dong** Lawrence Berkeley National Laboratory<br>
+**Bin Dong** Lawrence Berkeley National Laboratory<br>
 **Ahmed Eldawy** University of California, Riverside<br>
 **Jan Foster** University of Chicago<br>
 **Marios Fragkoulis** Delft University of Technology, The Netherlands<br>
@@ -22,8 +25,11 @@ To be completed<br>
 **Jinoh Kim** Texas A&M University-Commerce<br>
 **Seokki Lee** University of Cincinnati<br>
 **Ulf Leser** Humboldt-Universität zu Berlin, Germany<br>
+**Xin Liang** Oak Ridge National Laboratory<br>
 **Kamesh Madduri** Pennsylvania State University<br>
 **Tanu Malik** DePaul University, Chicago<br>
+**Federica Mandreoli** Università degli Studi di Modena e Reggio Emilia, Italy<br>
+**Kshitij Mehta** Oak Ridge National Laboratory<br>
 **Niccolo Meneghetti** University of Michigan - Dearborn<br>
 **Paolo Missier** Newcastle University<br>
 **Bongki Moon** Seoul National University<br>
@@ -32,9 +38,11 @@ To be completed<br>
 **Iulian Sandu-Popa** DAVID Laboratory, University of Versailles Saint-Quentin<br>
 **Tarique Siddiqui** Microsoft Research<br>
 **Kurt Stockinger** Zurich University of Applied Sciences<br>
+**Farouk Toumani** Limos-Blaise Pascal University, Clermont-Ferrand, France<br>
 **Yicheng Tu** University of South Florida<br>
 **Marco Vieira** University of Coimbra, Portugal<br>
 **John Wu** Lawrence Berkeley National Laboratory<br>
+**Jia Wu** Macquarie University<br>
 **Zichen Xu** The Nanchang University, Nanchang, China<br>
 **Hongfeng Yu** University of Nebraska-Lincoln<br>
 **Xuechen Zhang** Washington State Universit<br>
