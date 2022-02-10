@@ -4,7 +4,6 @@ layout: default
 ---
 
 # Research and Demo Program Committee
-To be completed<br>
 **Peter Baumann** Jacobs University Bremen<br>
 **Khalid Belhajjame** PSL, Université Paris-Dauphine, LAMSADE, France<br>
 **Ladjel Bellatreche** ISAE-ENSMA, Poitiers University, France<br>
@@ -20,6 +19,7 @@ To be completed<br>
 **Marios Fragkoulis** Delft University of Technology, The Netherlands<br>
 **Filippo Furfaro** DIMES - University of Calabria, Italy<br>
 **Lukasz Golab** University of Waterloo<br>
+**Peiquan Jin** University of Science and Technology of China<br>
 **Verena Kantere** University of Ottawa<br>
 **Zoi Kaoudi** Technische Universität Berlin, Germany<br>
 **Jinoh Kim** Texas A&M University-Commerce<br>
@@ -33,11 +33,16 @@ To be completed<br>
 **Niccolo Meneghetti** University of Michigan - Dearborn<br>
 **Paolo Missier** Newcastle University<br>
 **Bongki Moon** Seoul National University<br>
+**Alexander Rasin** DePaul University<br>
 **Tore Risch** Uppsala University. Sweden<br>
 **Florin Rusu** University of California, Merced<br>
 **Iulian Sandu-Popa** DAVID Laboratory, University of Versailles Saint-Quentin<br>
+**Jagan Sankaranarayanan** Google Inc<br>
+**Galen Shipman** Los Alamos National Laboratory<br>
 **Tarique Siddiqui** Microsoft Research<br>
 **Kurt Stockinger** Zurich University of Applied Sciences<br>
+**Houjun Tang** Lawrence Berkeley National Laboratory<br>
+**Douglas Thain** University of Notre Dame<br>
 **Farouk Toumani** Limos-Blaise Pascal University, Clermont-Ferrand, France<br>
 **Yicheng Tu** University of South Florida<br>
 **Marco Vieira** University of Coimbra, Portugal<br>
