@@ -12,6 +12,7 @@ layout: default
 **Tamas Budavari** The Johns Hopkins University<br>
 **Klemens Böhm** Karlsruhe Institute of Technology<br>
 **Amit Chavan** University of Maryland<br>
+**Soura Dasgupta** University of Iowa<br>
 **Shawfeng Dong** Lawrence Berkeley National Laboratory<br>
 **Bin Dong** Lawrence Berkeley National Laboratory<br>
 **Ahmed Eldawy** University of California, Riverside<br>
@@ -39,6 +40,7 @@ layout: default
 **Iulian Sandu-Popa** DAVID Laboratory, University of Versailles Saint-Quentin<br>
 **Jagan Sankaranarayanan** Google Inc<br>
 **Galen Shipman** Los Alamos National Laboratory<br>
+**Tarique Siddiqui** Microsoft Research<br>
 **Tarique Siddiqui** Microsoft Research<br>
 **Kurt Stockinger** Zurich University of Applied Sciences<br>
 **Houjun Tang** Lawrence Berkeley National Laboratory<br>
