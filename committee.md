@@ -23,10 +23,12 @@ layout: default
 **Peiquan Jin** University of Science and Technology of China<br>
 **Verena Kantere** University of Ottawa<br>
 **Zoi Kaoudi** Technische Universität Berlin, Germany<br>
+**Panagiotis Karras** Aarhus University, Aarhus, Denmark<br>
 **Jinoh Kim** Texas A&M University-Commerce<br>
 **Seokki Lee** University of Cincinnati<br>
 **Ulf Leser** Humboldt-Universität zu Berlin, Germany<br>
 **Xin Liang** Oak Ridge National Laboratory<br>
+**Qiong Luo** Hong Kong University of Science and Technology<br>
 **Kamesh Madduri** Pennsylvania State University<br>
 **Tanu Malik** DePaul University, Chicago<br>
 **Federica Mandreoli** Università degli Studi di Modena e Reggio Emilia, Italy<br>
