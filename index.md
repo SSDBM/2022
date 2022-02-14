@@ -34,7 +34,7 @@ Yongluan Zhou, University of Copenhagen<br>
 Elaheh Pourabbas, CNR- National Research Council of Italy<br>
 
 **Demo Chair**  
-Bin Yan, Aalborg University<br>
+Bin Yang, Aalborg University<br>
 
 **Proceedings Chair**  
 Yuchen Li, Singapore Management University<br>

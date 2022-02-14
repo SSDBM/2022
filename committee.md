@@ -41,7 +41,6 @@ layout: default
 **Jagan Sankaranarayanan** Google Inc<br>
 **Galen Shipman** Los Alamos National Laboratory<br>
 **Tarique Siddiqui** Microsoft Research<br>
-**Tarique Siddiqui** Microsoft Research<br>
 **Kurt Stockinger** Zurich University of Applied Sciences<br>
 **Houjun Tang** Lawrence Berkeley National Laboratory<br>
 **Douglas Thain** University of Notre Dame<br>
