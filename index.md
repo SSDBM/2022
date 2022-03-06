@@ -16,7 +16,7 @@ The best papers will be considered for publication in the Distributed and Parall
 <ul>
   <!-- <li><a href="https://ssdbm.org/2021/awards">Awards</a> are posted.</li> -->
   <!-- <li><a href="https://ssdbm.org/2021/register">Registration</a> link is open.</li> -->
-  <!-- <li>Registration deadline for authors is June 18, 2021</li> -->
+  <!-- <li>Registration  for authors is June 18, 2021</li> -->
   <!-- <li>Registration deadline for participants is July 7, 2021</li> -->
   <!-- <li>Submission deadline has been extended to March 21, 2021</li> -->
   <li>Please submit your paper <a href="https://easychair.org/conferences/?conf=ssdbm2022">here</a>.</li>
