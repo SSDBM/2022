@@ -14,14 +14,18 @@ The best papers will be considered for publication in the Distributed and Parall
 
 ## Announcements
 <ul>
-  <!-- <li><a href="https://ssdbm.org/2021/awards">Awards</a> are posted.</li> -->
-  <!-- <li><a href="https://ssdbm.org/2021/register">Registration</a> link is open.</li> -->
-  <!-- <li>Registration  for authors is June 18, 2021</li> -->
-  <!-- <li>Registration deadline for participants is July 7, 2021</li> -->
   <!-- <li>Submission deadline has been extended to March 21, 2021</li> -->
   <li>Please submit your paper <a href="https://easychair.org/conferences/?conf=ssdbm2022">here</a>.</li>
   <!-- <li>Notifications are extended to May 16, 2021.</li> -->
   <!-- <li><b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.</li> -->
+</ul>
+
+## News and Highlights
+<ul>
+  <li>Scope and topics are extended to include Data Science, and Big Data Analytics.</li>
+  <li>The best papers will be considered for publication in Distributed and Parallel Databases (DAPD).</li>
+  <li>Regular, short and demo papers will be accepted in the research track.</li>
+  <li>Special focus area: climate changes and sustainability.</li>
 </ul>
 
 ## Conference Officers
@@ -31,7 +35,7 @@ The best papers will be considered for publication in the Distributed and Parall
 Yongluan Zhou, University of Copenhagen<br>
 
 **Program Chair**<br>
-Elaheh Pourabbas, CNR- National Research Council of Italy<br>
+Elaheh Pourabbas, National Research Council of Italy<br>
 
 **Demo Chair**  
 Bin Yang, Aalborg University<br>
