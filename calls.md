@@ -40,6 +40,8 @@ Topics of particular interest include, but are not limited to, the following, as
 ## Submission Guidelines
 We solicit full papers (12 pages including references and appendices), short papers (4 pages including references and appendices), demo papers (4 pages). The full papers tend to be descriptions of complete technical work, while the short papers tend to be descriptions of interesting, innovative ideas, which nevertheless require more work to mature. The program committee may decide to accept some full papers as short papers. Full papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters. All papers, regardless of size, will be given an entry in the conference proceedings.
 
+All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template). SSDBM 2022 is single-blind reviewed; authors must include their names and affiliations on the first page.
+
 Please use the following URL link for submissions of papers: [Easychair](https://easychair.org/conferences/?conf=ssdbm2022).
 
 ## Research Papers (long and short)
