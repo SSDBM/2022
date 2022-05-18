@@ -15,7 +15,8 @@ The Proceedings of SSDBM 2022 will be published by ACM ICPS and will be availabl
 ## Announcements
 <ul>
   <!-- <li>Submission deadline has been extended to March 21, 2021</li> -->
-  <li>Please submit your paper <a href="https://easychair.org/conferences/?conf=ssdbm2022">here</a>.</li>
+  <!-- <li>Please submit your paper <a href="https://easychair.org/conferences/?conf=ssdbm2022">here</a>.</li> -->
+  <li><b>HYBRID CONFERENCE</b>: We are looking forward to welcoming many people coming to Copenhagen to experience the advantage of in-person conference participation. However, for those unable to travel, SSDBM 2022 will have a hybrid nature. Remote participation will be possible for authors and audience in technical sessions.</li>
   <!-- <li>Notifications are extended to May 16, 2021.</li> -->
   <!-- <li><b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.</li> -->
 </ul>
