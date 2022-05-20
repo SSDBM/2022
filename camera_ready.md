@@ -14,8 +14,8 @@ Copyright form submission and camera-ready uploading for SSDBM is handled by the
 1. Submitting the copyright form (SIGCMS): One of the corresponding authors of each paper will receive an email with instructions from ACM Rightsreview (rightsreview@acm.org). The author must follow the URL included in the email to submit the copyright form on behalf of the other authors. During this step the author should carefully review (and, if needed, revise) paper metadata (e.g., paper title, author details) before submitting the form.
 
 2. Submitting the camera-ready version of the manuscript (TAPS): After the copyright form submission (this could take several hours), the first author will receive an email with instructions for the camera-ready submission from the TAPS system (tapsadmin@aptaracorp.awsapps.com). The same email informs the author on:
-   - a. how to include rights and permissions information and the bibliographic strip into the camera-ready version; and
-   - b.how to submit the camera-ready PDF and the source files to TAPS following the provided instructions.
+   * how to include rights and permissions information and the bibliographic strip into the camera-ready version; and
+   * how to submit the camera-ready PDF and the source files to TAPS following the provided instructions.
 
 **Important**: Pay attention to the fact that these two emails are sent by different systems and may be addressed to different authors. Please make sure the emails have not wound up in a Spam folder. 
 
@@ -30,6 +30,6 @@ When preparing the camera-ready version, please consider the following points.
 3. Include appropriate user-defined keywords and the ACM Reference Format text.
 
 4. Paying attention to the following guidelines for the PDF file:
-   - a. Adhere to the page limits: 12 pages for full papers, 4 pages for short papers
-   - b. Page size should be US-Letter 8.5in x 11in (around 21.59cm x 27.94cm).
-   - c. All fonts must be Type 1 (scalable) or TrueType, and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file.
+   * Adhere to the page limits: 12 pages for full papers, 4 pages for short papers
+   * Page size should be US-Letter 8.5in x 11in (around 21.59cm x 27.94cm).
+   * All fonts must be Type 1 (scalable) or TrueType, and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file.
