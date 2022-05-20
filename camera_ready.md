@@ -11,9 +11,6 @@ The deadline for submitting the camera-ready paper is **June 6**. This is a hard
 
 Copyright form submission and camera-ready uploading for SSDBM is handled by the SIG Conference Management System (SIGCMS) and the ACM Publishing System (TAPS), respectively. In particular, the process is the following:
 
-<ol>
-<>
-
 1. Submitting the copyright form (SIGCMS): One of the corresponding authors of each paper will receive an email with instructions from ACM Rightsreview (rightsreview@acm.org). The author must follow the URL included in the email to submit the copyright form on behalf of the other authors. During this step the author should carefully review (and, if needed, revise) paper metadata (e.g., paper title, author details) before submitting the form.
 
 2. Submitting the camera-ready version of the manuscript (TAPS): After the copyright form submission (this could take several hours), the first author will receive an email with instructions for the camera-ready submission from the TAPS system (tapsadmin@aptaracorp.awsapps.com). The same email informs the author on:
