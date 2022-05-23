@@ -5,7 +5,7 @@ layout: default
 
 # Keynotes
 
-### Keynote 1: Christian S. Jensen
+## Keynote 1: Christian S. Jensen
 
 **TITLE:** TBA
 
@@ -14,9 +14,16 @@ layout: default
 <img src="./assets/images/keynote1.png" align="right" border="1" width="160">
 
 **BIO:** TBA
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-### Keynote 2: Deb Agarwal
+## Keynote 2: Deb Agarwal
 
 **TITLE:** Applying Data Science in Earth Science to Understand Climate
 
@@ -24,12 +31,12 @@ layout: default
 
 <img src="./assets/images/keynote2.png" align="right" border="1" width="160">
 
-**BIO:** Dr. Agarwal's research focuses on scientific tools which enable sharing of scientific experiments, advanced networking infrastructure to support sharing of scientific data, data analysis support infrastructure for eco-science, and cybersecurity infrastructure to secure collaborative environments. Dr. Agarwal is a Research Affiliate at the Berkeley Institute for Data science and an Inria International Chair, where she co-leads the DALHIS (Data Analysis on Large-scale Heterogeneous Infrastructures for Science) Inria Associate team. Dr. Agarwal also leads teams developing data server infrastructure to significantly enhance data browsing and analysis capabilities and enable eco-science synthesis at the watershed-scale to understand hydrologic and conservation questions and at the global-scale to understand carbon flux. Some of the projects Dr. Agarwal is working on include: Enviromental Systems Science Digital Infrastructure for a Virtual Ecosystem (ESS-DIVE), Watershed Function SFA, AmeriFlux Management Project, FLUXNET, NGEE Tropics, International Soil Carbon Network. Dr. Agarwal received her Ph.D. in electrical and computer engineering from University of California, Santa Barbara and a B.S. in Mechanical Engineering from Purdue University. 
+**BIO:** Dr. Agarwal's research focuses on scientific tools which enable sharing of scientific experiments, advanced networking infrastructure to support sharing of scientific data, data analysis support infrastructure for eco-science, and cybersecurity infrastructure to secure collaborative environments. Dr. Agarwal is a Research Affiliate at the Berkeley Institute for Data science and an Inria International Chair, where she co-leads the DALHIS (Data Analysis on Large-scale Heterogeneous Infrastructures for Science) Inria Associate team. Dr. Agarwal also leads teams developing data server infrastructure to significantly enhance data browsing and analysis capabilities and enable eco-science synthesis at the watershed-scale to understand hydrologic and conservation questions and at the global-scale to understand carbon flux. Some of the projects Dr. Agarwal is working on include: Enviromental Systems Science Digital Infrastructure for a Virtual Ecosystem (ESS-DIVE), Watershed Function SFA, AmeriFlux Management Project, FLUXNET, NGEE Tropics, International Soil Carbon Network. Dr. Agarwal received her Ph.D. in electrical and computer engineering from University of California, Santa Barbara and a B.S. in Mechanical Engineering from Purdue University.
 
 See <https://dst.lbl.gov/~deba/> for more information.
 
 
-### Keynote 3: Peter Baumann
+## Keynote 3: Peter Baumann
 
 **TITLE:** The rasdaman Array DBMS: Concepts, Architecture, and What People Do With It
 
@@ -50,17 +57,3 @@ Since many years Baumann is critically shaping and often leading datacube standa
 As a leading scholar in array services he is chair of the IEEE (GRSS) Earth Science Informatics (ESI) Technical Committee, chair of the GAIA-X Earth Observation Expert Group, founding member and chair of CODATA Germany, and Charter Member of Open-Source Geospatial Foundation (OSGeo).
 
 See <https://peter-baumann.org> for more information.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
