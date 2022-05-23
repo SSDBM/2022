@@ -50,3 +50,17 @@ Since many years Baumann is critically shaping and often leading datacube standa
 As a leading scholar in array services he is chair of the IEEE (GRSS) Earth Science Informatics (ESI) Technical Committee, chair of the GAIA-X Earth Observation Expert Group, founding member and chair of CODATA Germany, and Charter Member of Open-Source Geospatial Foundation (OSGeo).
 
 See <https://peter-baumann.org> for more information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
