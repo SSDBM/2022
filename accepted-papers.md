@@ -5,6 +5,7 @@ layout: default
 
 # Accepted Papers
 
+<br>
 ## Accepted Long Research Papers
 
 **PM-Rtree: A Highly-Efficient Crash-Consistent R-tree for Persistent Memory**<br>
@@ -46,6 +47,9 @@ Klearchos Kosmanos, Panos Kalnis and Apostolos Papadopoulos
 **Benchmark of DNN Model Search at Deployment Time**<br>
 Lixi Zhou, Arindam Jain, Zijie Wang, Amitabh Das, Yingzhen Yang and Jia Zou
 
+<br>
+<br>
+<br>
 ## Accepted Short Research Papers
 
 **Crack Detection and Localization based onSpatio-Temporal Data using Residual Networks**<br>
@@ -60,7 +64,7 @@ Yang Shuang
 **In-Place Updates in Tree-Encoded Bitmaps**<br>
 Marcellus Prama Saputra, Eleni Tzirita Zacharatou, Serafeim Papadias and Volker Markl
 
-**[short paper] Bi-directional Log-Structured Merge Tree**<br>
+**Bi-directional Log-Structured Merge Tree**<br>
 Xin Zhang, Qizhong Mao, Ahmed Eldawy, Vagelis Hristidis and Yihan Sun
 
 **Recursive SQL for Data Mining**<br>
@@ -78,7 +82,7 @@ Junmin Gu, Greg Eisenhauer, Scott Klasky, Norbert Podhorszki, Ruonan Wang and Ke
 **WSSA: Weakly Supervised Semantic-based approach for Sentiment Analysis**<br>
 Wissam Maamar Kouadri, Salima Benbernou, Mourad Ouziri and Iheb Ben Amor
 
-**Facilitating DoS Attack Detection using Unsupervised Anomaly Detection (short paper)**<br>
+**Facilitating DoS Attack Detection using Unsupervised Anomaly Detection**<br>
 Christos Bellas, Georgia Kougka, Athanasios Naskos, Anastasios Gounaris, Athena Vakali and Christos Xenakis
 
 **How Powerful are Membership Inference Attacks on Graph Neural Networks?**<br>
