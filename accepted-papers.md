@@ -3,7 +3,7 @@ title: Accepted Papers
 layout: default
 ---
 
-# ACCEPTED PAPERS
+# Accepted Papers
 
 ## Accepted Long Research Papers
 
