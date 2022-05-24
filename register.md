@@ -5,7 +5,7 @@ layout: default
 
 # Registration
 
-Registration is now open. The deadline for author registration is June 10. At least one author of each paper has to register. 
+Registration is now open. The deadline for author registration is **June 10**. At least one author of each paper has to register. 
 
 
 |                      | Earlybird (by June 20) | Late (after June 20) |
