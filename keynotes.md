@@ -36,7 +36,21 @@ layout: default
 See <https://dst.lbl.gov/~deba/> for more information.
 
 
-## Keynote 3: Peter Baumann
+## Keynote 3: Scott A. Klasky
+
+**TITLE:** The Data Deluge 
+
+**ABSTRACT:** The rapid growth in technology is providing unprecedented opportunities for scientific inquiry. However, dealing with the data produced has resulted in a crisis. Computer speeds are increasing much faster than are storage technology capacities and I/O rates. This ratio is also getting worse for experimental and observational facilities, where for example, the Legacy Survey of Space and Time (LSST) observatory will collect up to 20 TB per night in 2022, yet the Square Kilometre Array will generate over 2 PB per night in 2028. This reality makes it critical for our community to 1) Create efficient mechanisms to move and store the data in a Findable, Addressable, Interoperable, and Reproducible (FAIR) fashion; 2) Create efficient abstractions so that scientists can perform both online and offline analysis in an efficient fashion; 3) Create new reduction algorithms which can be trusted by the scientific community, and which can allow for new ways to not only reduce/compress the data but also to reduce the memory footprint and the overall time spent in analysis.
+
+To tackle these goals, My group had worked closely with many large-scale applications and researchers to co-design critical software infrastructure for these communities. These research artifacts have been fully integrated into many of the largest simulations and experiments, and have increased the performance of these codes by over 10X. This impact was recognized with an R&D 100 award in 2013 and was highlighted in the 2020 US Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) @40 report. In this presentation, I will discuss the research details on three major contributions I have led: large-scale self-describing parallel I/O (ADIOS), in situ/streaming data (SST), and data refactoring (MGARD). I will introduce the overall concepts and present several results from our research, which has been applied and fully integrated into many of the world's largest scientific applications.
+
+
+<img src="./assets/images/keynote3.png" align="right" border="1" width="160">
+
+**BIO:** Dr. Scott A. Klasky is a distinguished scientist and the group leader for Workflow Systems in the Computer Science and Mathematics Division at the Oak Ridge National Laboratory. He holds an appointment at the University of Tennessee, and Georgia Tech University. He obtained his Ph.D. in Physics from the University of Texas at Austin (1994). Dr. Klasky is a world expert in scientific computing, scientific data reduction, and scientific data management, co-authoring over 300 papers and is a lead/co-lead of three exascale computing projects: Whole Device Modeling for Fusion, Codesign Center for Online Data Analysis and Reduction and the ADIOS-2 project; three SciDAC projects: High fidelity Boundary  Plasma  Simulation, Integrated Simulation of Energetic Particles in Burning Plasmas, SciDAC Institute for Resource and Application Productivity through computation, Information and Data Science, and the leader of the Sirius-2: Science Driven Data Management for Multitier Storage 2.0 project.
+
+
+## Keynote 4: Peter Baumann
 
 **TITLE:** The rasdaman Array DBMS: Concepts, Architecture, and What People Do With It
 
@@ -46,7 +60,7 @@ The pioneer Array DBMS, rasdaman ("raster data manager"), is a clean-slate DBMS 
 
 We present the rasdaman Array DBMS in a brief overview and discuss selected challenges, with emphasis on applications in the Earth sciences. Live demos will illustrate our talk.
 
-<img src="./assets/images/keynote3.png" align="right" border="1" width="160">
+<img src="./assets/images/keynote4.png" align="right" border="1" width="160">
 
 **BIO:** Dr. Peter Baumann is Professor of Computer Science, inventor, and entrepreneur. At Jacobs University in Bremen, Germany he researches on flexible, scalable services for massive multi-dimensional datacubes and their application in science and engineering. In this field he has published 160+ book chapters, journal, and conference articles and has internationally patented datacube technology. For his continued effort in innovative IT education he was elected Teacher of the Year 2020.
 
