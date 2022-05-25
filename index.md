@@ -14,10 +14,10 @@ The Proceedings of SSDBM 2022 will be published by ACM ICPS and will be availabl
 
 ## Announcements
 <ul>
-  <li><b>HYBRID CONFERENCE</b>: We are looking forward to welcoming many people coming to Copenhagen to experience the advantage of in-person conference participation. However, for those unable to travel, SSDBM 2022 will have a hybrid nature. Remote participation will be possible for authors and audience in technical sessions.</li>
-  <li>Accommodation information is available now. Please act fast to secure a room.</li>
-  <li>The list of accepted papers is announced.</li>
   <li><a href="https://eventsignup.ku.dk/ssdbm">Registration</a> link is open.</li>
+  <li>The list of accepted papers is announced.</li>
+  <li>Accommodation information is available now. Please act fast to secure a room.</li>
+  <li><b>HYBRID CONFERENCE</b>: We are looking forward to welcoming many people coming to Copenhagen to experience the advantage of in-person conference participation. However, for those unable to travel, SSDBM 2022 will have a hybrid nature. Remote participation will be possible for authors and audience in technical sessions.</li>
 </ul>
 
 ## News and Highlights
