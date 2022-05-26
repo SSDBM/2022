@@ -9,7 +9,7 @@ layout: default
 
 **Day 1 (Wednesday July 6):**
 
-| &nbsp; Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Event                                                         |
+| Time | Event |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------|
 |  9:00 -  9:15                                                                     | SSDBM Opening                                                 |
 |  9:15 - 10:30                                                                     | **Keynote** by Christian S. Jensen                            |
