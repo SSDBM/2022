@@ -5,7 +5,7 @@ layout: default
 
 # Program Overview
 
-<style scoped> table { font-size: 10px; } </style>
+<style scoped> table { font-size: 12px; } </style>
 
 **Day 1 (Wednesday July 6):**
 
