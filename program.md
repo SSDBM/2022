@@ -14,7 +14,7 @@ layout: default
 
     th:nth-child(1) 
     {
-        width: 100px;
+        width: 80px;
         overflow: hidden;
     }
 </style>
