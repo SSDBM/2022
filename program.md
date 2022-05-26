@@ -5,7 +5,15 @@ layout: default
 
 # Program Overview
 
-<style scoped> table { font-size: 12px; } </style>
+<style scoped> 
+    table { font-size: 12px; table-layout: fixed; } 
+
+    th:nth-child(1) 
+    {
+        width: 180px;
+        overflow: hidden;
+    }
+</style>
 
 **Day 1 (Wednesday July 6):**
 
