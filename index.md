@@ -14,6 +14,7 @@ The Proceedings of SSDBM 2022 will be published by ACM ICPS and will be availabl
 
 ## Announcements
 <ul>
+  <li>The program information is announced.</li>
   <li><a href="https://eventsignup.ku.dk/ssdbm">Registration</a> link is open.</li>
   <li>The list of accepted papers is announced.</li>
   <li>Accommodation information is available now. Please act fast to secure a room.</li>
