@@ -24,17 +24,17 @@ layout: default
 
 **Day 2 (Thursday July 7):**
 
-| Time          | Event                                                         |
-|---------------|---------------------------------------------------------------|
-|  9:00	- 10:15	| **Keynote** by Deb Agarwal                                    |
-| 10:15	- 10:45	| Break	       			                                        |
-| 10:45	- 12:15	| **Research Session** - Graph Data & Mining                    |				    	
-| 12:15	- 13:45	| Lunch Break		                                            |			
-| 13:45	- 15:00	| **Keynote** by Scott Klasky                                   |					
-| 15:00	- 15:30	| Break					                                        |
-| 15:30	- 16:45	| **Research Session** - Machine Learning and Applied Computing |					
-| 17:00	- 18:30	| Excursion					                                    |
-| 19:00	- 21:00	| Conference Banquet		                                    |
+| Time              | Event                                                         |
+|-------------------|---------------------------------------------------------------|
+|  9:00	- 10:15 	| **Keynote** by Deb Agarwal                                    |
+| 10:15	- 10:45 	| Break	       			                                        |
+| 10:45	- 12:15 	| **Research Session** - Graph Data & Mining                    |				    	
+| 12:15	- 13:45 	| Lunch Break		                                            |			
+| 13:45	- 15:00 	| **Keynote** by Scott Klasky                                   |					
+| 15:00	- 15:30 	| Break					                                        |
+| 15:30	- 16:45 	| **Research Session** - Machine Learning and Applied Computing |					
+| 17:00	- 18:30 	| Excursion					                                    |
+| 19:00	- 21:00 	| Conference Banquet		                                    |
 
 
 
