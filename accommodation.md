@@ -13,5 +13,5 @@ Hotel rooms might be difficult to come by in the city centre in the summer. So i
 * [Radisson Hotel Group](https://www.radissonhotels.com/) with some options in the city.
 
 ### Economy class
-* [Zleep Hotel Copenhagen City](https://www.zleep.com/en/hotel/copenhagen-city/)
+* [Zleep Hotel Copenhagen City](https://www.zleep.com/en/hotel/copenhagen-city/). We are trying to get a discount deal with this hotel. If you are interested, please visit this page again later.
 * [Cabinn City](https://www.cabinn.com/hotel/cabinn-city)
