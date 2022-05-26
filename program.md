@@ -9,45 +9,45 @@ layout: default
 
 **Day 1 (Wednesday July 6):**
 
-| Time                                                  | Event                                                         |
-|-------------------------------------------------------|---------------------------------------------------------------|
-| &nbsp; &nbsp; 9:00 &nbsp; - &nbsp; &nbsp; 9:15 &nbsp; | SSDBM Opening                                                 |
-|  9:15 - 10:30                                         | **Keynote** by Christian S. Jensen                            |
-| 10:30	- 11:00	                                        | Break	                                                      |
-| 11:00	- 12:00         	                            | **Research Session** - Applied computing					  |
-| 12:00	- 13:30	                                        | Lunch Break					                                  |
-| 13:30	- 14:30	                                        | **Research Session** - Machine Learning - short papers		  |
-| 14:30	- 15:00	                                        | Break					                                      |
-| 15:00	- 16:25	                                        | **Research Session** - Indexing & Querying				      |
-| 16:25	- 18:00	                                        | Poster and Reception					                      |
+|&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Event                                                         |
+|----------------------------------------------------------------------|---------------------------------------------------------------|
+|  9:00 -  9:15                                                        | SSDBM Opening                                                 |
+|  9:15 - 10:30                                                        | **Keynote** by Christian S. Jensen                            |
+| 10:30	- 11:00                                                        | Break	                                                       |
+| 11:00	- 12:00                                                        | **Research Session** - Applied computing					   |
+| 12:00	- 13:30	                                                       | Lunch Break					                               |
+| 13:30	- 14:30	                                                       | **Research Session** - Machine Learning - short papers		   |
+| 14:30	- 15:00	                                                       | Break					                                       |
+| 15:00	- 16:25	                                                       | **Research Session** - Indexing & Querying				       |
+| 16:25	- 18:00	                                                       | Poster and Reception					                       |
 
 
 
 **Day 2 (Thursday July 7):**
 
-| Time                                            | Event                                                         |
-|-------------------------------------------------|---------------------------------------------------------------|
-| &nbsp; &nbsp; 9:00 &nbsp; - &nbsp; 10:15 &nbsp; | **Keynote** by Deb Agarwal                                    |
-| 10:15	- 10:45                                   | Break	       			                                        |
-| 10:45	- 12:15                                   | **Research Session** - Graph Data & Mining                    |
-| 12:15	- 13:45                                   | Lunch Break		                                            |
-| 13:45	- 15:00                                   | **Keynote** by Scott Klasky                                   |
-| 15:00	- 15:30                                   | Break					                                        |
-| 15:30	- 16:45                                   | **Research Session** - Machine Learning and Applied Computing |
-| 17:00	- 18:30                                   | Excursion					                                    |
-| 19:00	- 21:00                                   | Conference Banquet		                                    |
+|&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Event                                                         |
+|----------------------------------------------------------------------|---------------------------------------------------------------|
+|  9:00 - 10:15                                                        | **Keynote** by Deb Agarwal                                    |
+| 10:15	- 10:45                                                        | Break	       			                                       |
+| 10:45	- 12:15                                                        | **Research Session** - Graph Data & Mining                    |
+| 12:15	- 13:45                                                        | Lunch Break		                                           |
+| 13:45	- 15:00                                                        | **Keynote** by Scott Klasky                                   |
+| 15:00	- 15:30                                                        | Break					                                       |
+| 15:30	- 16:45                                                        | **Research Session** - Machine Learning and Applied Computing |
+| 17:00	- 18:30                                                        | Excursion					                                   |
+| 19:00	- 21:00                                                        | Conference Banquet		                                       |
 
 
 
 **Day 3 (Friday July 8):**
 
-| Time                                                  | Event                                                         |
-|-------------------------------------------------------|---------------------------------------------------------------|
-| &nbsp; &nbsp; 9:00 &nbsp; - &nbsp; &nbsp; 9:15 &nbsp; | Announcement of SSDBM 2023                                    |
-|  9:15 - 10:30	                                        | **Keynote** by Peter Baumann		                          |
-| 10:30 - 11:00	                                        | Break					                                      |
-| 11:00 - 12:25	                                        | **Research Session** - Data Science                           |
-| 12:25 - 13:55	                                        | Closing and Lunch                                             |
+|&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Event                                                         |
+|----------------------------------------------------------------------|---------------------------------------------------------------|
+|  9:00 -  9:15                                                        | Announcement of SSDBM 2023                                    |
+|  9:15 - 10:30	                                                       | **Keynote** by Peter Baumann		                           |
+| 10:30 - 11:00	                                                       | Break					                                       |
+| 11:00 - 12:25	                                                       | **Research Session** - Data Science                           |
+| 12:25 - 13:55	                                                       | Closing and Lunch                                             |
 
 
 
