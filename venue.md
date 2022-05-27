@@ -7,9 +7,8 @@ layout: default
 
 **The 2022 SSBDM Conference will be held in the South Campus of University of Copenhagen**, which is located near the Islands Brygge metro station on Amager. 
 
-* Address: 
-  Auditorium: 4A.0.69, Building 4A, South Campus
-  Njalsgade 76, 2300 Kbh S
+* Auditorium: 4A.0.69, Building 4A, South Campus
+* Njalsgade 76, 2300 Kbh S
 * [Map of South Campus](https://hum.ku.dk/kontakt/kort-soendre-campus/)
 
 ## University of Copenhagen
