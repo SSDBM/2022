@@ -7,21 +7,18 @@ layout: default
 
 ## Keynote 1: Christian S. Jensen
 
-**TITLE:** TBA
+**TITLE:** Digitalization in the Service of Society: The Case of Big Vehicle Trajectory Data
 
-**ABSTRACT:** TBA
+**ABSTRACT:** The ongoing, sweeping digitalization of societal processes generates massive volumes of data that capture the underlying processes at an unprecedented level of detail, in turn enabling us to better understand and improve those processes. Put differently, if harnessed properly, data holds the potential to enable value creation throughout society.
+
+Considering primarily vehicle trajectory data, this talk put focus on the important process of transportation: While we all depend on it for mobility, transportation has adverse effects on our productivity due to lack of predictability and congestion, the climate due to greenhouse gas emissions, and our health and safety due to air and noise pollution and accidents. Thus, it makes good sense to invent techniques capable of leveraging big data for the improvement of transportation.
+
+This talk will describe how the availability of massive trajectory data renders the traditional routing paradigm, where a road network is modeled as an edge-weighted graph, inadequate. Instead, new paradigms that thrive on massive trajectory data are called for. The talk will cover several such paradigms. As even massive volumes of trajectory data are sparse in these settings, the talk will also cover means of making good use of available data. Finally, the talk will cover uses of trajectory data beyond routing.
 
 <img src="./assets/images/keynote1.png" align="right" border="1" width="160">
 
-**BIO:** TBA
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+**BIO:** Christian S. Jensen is Professor of Computer Science at Aalborg University, Denmark. His research concerns analytics, including machine learning, data mining, and query processing, and data management, with a focus on temporal and spatio-temporal data. Christian is an ACM and IEEE Fellow, and he is a member of Academia Europaea, the Royal Danish Academy of Sciences and Letters, and the Danish Academy of Technical Sciences. He has received several awards, most recently the 2022 ACM SIGMOD Contributions Award and the 2019 IEEE TCDE Impact Award. He is on the board of Villum Fonden, a major funder of research in Denmark and is vice-chair of the Danish National Research Foundation. He is president of the steering committee of the Swiss National Research Program on Big Data. In Germany, he is on the scientific advisory board (SAB) of the Max Planck Institute for Informatics; and in Norway, he chairs the SAB of the Norwegian Research Center for AI Innovation.
+
 
 ## Keynote 2: Deb Agarwal
 
