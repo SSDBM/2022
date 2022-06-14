@@ -70,9 +70,6 @@ Xin Zhang, Qizhong Mao, Ahmed Eldawy, Vagelis Hristidis and Yihan Sun
 **Recursive SQL for Data Mining**<br>
 Maximilian Schüle, Alfons Kemper and Thomas Neumann
 
-**Variable Neighborhood Kriging Heuristics**<br>
-Yifei Ding
-
 **Static-Dynamic Graph Neural Network for Stock Recommendation**<br>
 Yanshen He, Qiutong Li, Feng Wu and Jianliang Gao
 
