@@ -123,4 +123,3 @@ layout: default
 | 11:20 - 11:40 | Justus Henneberg, Felix Schuhknecht, Philipp Reutter, Nils Brast and Peter Spichtinger. Northlight: Declarative and Optimized Analysis of Atmospheric Datasets in SparkSQL	                                |
 | 11:40 - 11:55 | Christos Bellas, Georgia Kougka, Athanasios Naskos, Anastasios Gounaris, Athena Vakali and Christos Xenakis. Facilitating DoS Attack Detection using Unsupervised Anomaly Detection (short paper)	            |
 | 11:55 - 12:10 | Marco Heyden, Jürgen Wilwer, Edouard Fouché, Steffen Thoma, Sven Matthiesen and Thomas Gwosch. Tandem Outlier Detectors for Decentralized Data (short)	                                                    |
-| 12:10 - 12:25 | Yifei Ding. Variable Neighborhood Kriging Heuristics (short)					                                                                                                                                |
