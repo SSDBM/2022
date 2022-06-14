@@ -117,7 +117,7 @@ layout: default
 **Day 3 (Friday July 8):**
 
 
-| 11:00 - 12:25 | Research Session - Data Science					                                                                                                                                                            |
+| 11:00 - 12:10 | Research Session - Data Science					                                                                                                                                                            |
 |------------- -|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11:00 - 11:20 | Jalal Mostafa, Sara Wehbi, Suren Chilingaryan and Andreas Kopmann. SciTS: A Benchmark for Time-Series Database in Scientific Experiments and Industrial Internet of Things                                    |
 | 11:20 - 11:40 | Justus Henneberg, Felix Schuhknecht, Philipp Reutter, Nils Brast and Peter Spichtinger. Northlight: Declarative and Optimized Analysis of Atmospheric Datasets in SparkSQL	                                |
