@@ -8,7 +8,7 @@ layout: default
 The conference will be held in the **Lundbeckfond Auditorium, Biocenter, North Campus** of University of Copenhagen. The Lundbeckfond Auditorium was donated by the Lundbeck Foundation and can accommodate 340 people.
 
 - Address of the Biocenter building: [Ole Maaløes Vej 5, 2200 København](https://goo.gl/maps/TCF1c8Qn1RbB5TaC9)
-- The Lundbeckfond Auditorium is located on the ground floor of Biocenter. Check the building map [here](https://www.biocenter.ku.dk/english/map/) to find the auditorium.
+- The Lundbeckfond Auditorium is located on the ground floor of Biocenter. Check the [building map](https://www.biocenter.ku.dk/english/map/) to find the auditorium.
 
 ![Auditorium](./assets/images/auditorium1.png)
 

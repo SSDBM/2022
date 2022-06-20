@@ -9,7 +9,7 @@ layout: default
 
 2. At the top right corner, select the **Create video or more** button -> **Upload Video**.
 
-<img src="./assets/images/youtube.png" align="left" border="1" width="400">
+![Youtube](./assets/images/youtube.png)
 
 3. Select the video file you would like to upload.
 
