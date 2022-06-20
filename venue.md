@@ -5,6 +5,15 @@ layout: default
 
 # Conference Venue
 
+The conference will be held in the **Lundbeckfond Auditorium, Biocenter, North Campus** of University of Copenhagen. The Lundbeckfond Auditorium was donated by the Lundbeck Foundation and can accommodate 340 people.
+
+- Address of the Biocenter building: [Ole Maaløes Vej 5, 2200 København](https://goo.gl/maps/TCF1c8Qn1RbB5TaC9)
+- The Lundbeckfond Auditorium is located on the ground floor of Biocenter. Check the building map [here](https://www.biocenter.ku.dk/english/map/) to find the auditorium.
+
+![Auditorium](./assets/images/auditorium1.png)
+
+![Auditorium](./assets/images/auditorium2.png)
+
 ## University of Copenhagen
 
 Driven by intellectual creativity and critical thinking since 1479, researchers and students at the University of Copenhagen have expanded horizons and contributed to moving the world forward. With its 5,000 researchers and 37,500 students, the University boasts an international research and study environment and is highly ranked on the leading ranking lists of the world's best universities.
@@ -15,16 +24,16 @@ The University of Copenhagen is working towards becoming one of the world’s gr
 
 The University also focuses on gender equality and sees diversity as a strength.
 
-![copenhagen](./assets/images/ku1.png)
+![University of Copenhagen](./assets/images/ku1.png)
 
-![copenhagen](./assets/images/ku2.png)
+![University of Copenhagen](./assets/images/ku2.png)
 
 
 ## Department of Computer Science (DIKU)
 
 Department of Computer Science at University of Copenhagen (DIKU) is the first computer science department in Denmark, established by Peter Naur in 1970. Since then, our researchers and graduates have formed the basis for society’s accelerating technological transformation, and our research environment and results have made us one of Europe’s leading and most attractive computer science departments.
 
-![copenhagen](./assets/images/diku5.png)
+![DIKU](./assets/images/diku5.png)
 
 
 ## North Campus
@@ -33,12 +42,10 @@ Natural science and human life and health are in focus at North Campus, which co
 
 North Campus lies in the triangle between Nørre Allé, Jagtvej and Tagensvej. In addition, you can access the Niels Bohr Institute and the Panum Institute via Blegdamsvej.
 
-Address: Univeristetsparken 5, 2100 Copenhagen
+![North Campus](./assets/images/diku1.png)
 
-![copenhagen](./assets/images/diku1.png)
+![North Campus](./assets/images/diku2.png)
 
-![copenhagen](./assets/images/diku2.png)
+![North Campus](./assets/images/diku3.png)
 
-![copenhagen](./assets/images/diku3.png)
-
-![copenhagen](./assets/images/diku4.png)
+![North Campus](./assets/images/diku4.png)

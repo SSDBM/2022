@@ -8,7 +8,8 @@ layout: default
 1. Sign in to [YouTube](https://www.youtube.com/).
 
 2. At the top right corner, select the **Create video or more** button -> **Upload Video**.
-<img src="./assets/images/youtube.png" align="left" border="1" width="200">
+
+<img src="./assets/images/youtube.png" align="left" border="1" width="400">
 
 3. Select the video file you would like to upload.
 
@@ -33,15 +34,13 @@ layout: default
 
 Please send the video link by email to **liu@di.ku.dk** by June 29th according to the following instructions:
 
-1. Email subject must be titled with your paper ID and presenter last name:
-
-SSDBM 2022 Video Link: PAPERID#_PRESENTER-LASTNAME
+1. Email subject must be titled with your paper ID and presenter last name: **SSDBM 2022 Video Link: PAPERID#_PRESENTER-LASTNAME**
 
 2. Email body should contain:
-   - Paper ID and track
-   - YouTube video link
-   - Name of the speaker in the video
-   - A short 3-4 lines biography of the speaker
+  - Paper ID and track
+  - YouTube video link
+  - Name of the speaker in the video
+  - A short 3-4 lines biography of the speaker
 
 Below is a sample format for the email:
 
