@@ -5,7 +5,7 @@ layout: default
 
 # Video Submission Instructions
 
-1. Sign in to [YouuTube](https://www.youtube.com/).
+1. Sign in to [YouTube](https://www.youtube.com/).
 
 2. At the top right corner, select the **Create video or more** button -> **Upload Video**.
 <img src="./assets/images/youtube.png" align="left" border="1" width="200">
