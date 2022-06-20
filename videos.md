@@ -8,7 +8,7 @@ layout: default
 1. Sign in to [YouTube](https://www.youtube.com/).
 
 2. At the top right corner, select the **Create video or more** button -> **Upload Video**.
-![Youtube](./assets/images/youtube.png)
+    ![Youtube](./assets/images/youtube.png)
 
 3. Select the video file you would like to upload.
 
