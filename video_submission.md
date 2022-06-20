@@ -8,7 +8,7 @@ layout: default
 1. Sign in to [YouuTube](https://www.youtube.com/).
 
 2. At the top right corner, select the **Create video or more** button -> **Upload Video**.
-<img src="./assets/images/youtube.png" align="left" border="1" width="400">
+<img src="./assets/images/youtube.png" align="left" border="1" width="200">
 
 3. Select the video file you would like to upload.
 
@@ -31,7 +31,7 @@ layout: default
 
 # Instructions for Emailing Your Youtube Video Link
 
-Please send the video link by email to the [SSDBM 2022 Web chairs](liu@di.ku.dk) by June 29th according to the following instructions:
+Please send the video link by email to **liu@di.ku.dk** by June 29th according to the following instructions:
 
 1. Email subject must be titled with your paper ID and presenter last name:
 
@@ -49,7 +49,7 @@ Title: “SSDBM 2022 Video Link: 1_DOE”
 
 Paper ID and Track: #1
 
-Video Link: <link>
+Video Link: https://...
 
 Presenter Full Name: John Doe
 
