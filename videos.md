@@ -22,7 +22,7 @@ layout: default
 
 8. Once your video is available, please copy the link by viewing the video page on YouTube and sharing its link.
 
-9. For research track the video duration is **13 minutes**.
+9. The video duration should be maximum **15 minutes for long papers** and **12 minutes for short papers**.
 
 10. For poster, demos, and doctoral symposium the video duration is **5 minutes**.
 
