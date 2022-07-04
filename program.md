@@ -23,10 +23,11 @@ layout: default
 
 | Time          | Event                                                                                      |
 |---------------|--------------------------------------------------------------------------------------------|
-| 09:00 - 09:15 | SSDBM Opening                                                                              |
+| 08:30 - 09:00 | Reigistration with coffee and light breakfast                                              |
+| 09:00 - 09:15 | SSDBM Opening by Yongluan Zhou                                                                             |
 | 09:15 - 10:30 | **Keynote 1** by Christian S. Jensen                                                       |
 | 10:30	- 11:00 | Break	                                                                                     |
-| 11:00	- 12:00 | **Research Session 1** - Applied computing <br> Session Chair: Scott Klasky                |
+| 11:00	- 12:00 | **Research Session 1** - Applied Computing <br> Session Chair: Scott Klasky                |
 | 12:00	- 13:30 | Lunch Break					                                                             |
 | 13:30	- 14:30 | **Research Session 2** - Machine Learning - short papers <br> Session Chair: Carlo Saladin |
 | 14:30	- 15:00 | Break					                                                                     |
@@ -39,6 +40,7 @@ layout: default
 
 | Time          | Event                                                                                             |
 |---------------|---------------------------------------------------------------------------------------------------|
+| 08:30 - 09:00 | Reigistration with coffee and light breakfast                                                     |
 | 09:00 - 10:15 | **Keynote 2** by Deb Agarwal                                                                      |
 | 10:15	- 10:45 | Break	       			                                                                            |
 | 10:45	- 12:15 | **Research Session 4** - Graph Data & Mining <br> Session Chair: Qian Gong                        |
@@ -55,6 +57,7 @@ layout: default
 
 | Time          | Event                                                                     |
 |---------------|---------------------------------------------------------------------------|
+| 08:30 - 09:00 | Reigistration with coffee and light breakfast                             |
 | 09:00 - 09:15 | Announcement of SSDBM 2023                                                |
 | 09:15 - 10:30 | **Keynote 4** by Peter Baumann		                                    |
 | 10:30 - 11:00 | Break					                                                    |
