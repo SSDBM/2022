@@ -56,6 +56,4 @@ Tanu Malik, DePaul University<br>
 Michael Böehlen, University of Zurich<br>
 Ioana Manolescu, Inria, Paris, France<br>
 
-### Awards Commitee
-TBD<br>
 <!-- [Johann Gamper](https://www.inf.unibz.it/~gamper/), Free University of Bozen-Bolzano, Italy<br> -->
