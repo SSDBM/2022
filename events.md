@@ -3,7 +3,7 @@ title: Events
 layout: default
 ---
 
-# Social Activities
+# Social Events
 
 Thursday, July 7
 
