@@ -11,7 +11,7 @@ Thursday, July 7
 
 The tour will start from Nørreport Station and end at Christiansborg Palace. Nørreport Station is reachable by bus from the venue. After getting off at Nørreport Station, you should locate the guide and the crowd at Nørreport Station. For your convenience, there will be a convoy starting from the venue at 17:00, taking the bus to Nørreport Station.
 
-![Nørreport Station](./assets/images/norreport.png)
+![Nørreport Station](./assets/images/norreport.jpeg)
 Nørreport Station
 
 ![Christiansborg Palace](./assets/images/christiansborg.png)
