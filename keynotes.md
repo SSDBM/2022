@@ -35,7 +35,7 @@ See <https://dst.lbl.gov/~deba/> for more information.
 
 ## Keynote 3: Scott A. Klasky
 
-**TITLE:** The Data Deluge ([slides](./assets/slides/SSDBM_2022_Keynote_Klasky.pdf))
+**TITLE:** The Data Deluge: Overcoming the Barriers to Extreme Scale Science ([slides](./assets/slides/SSDBM_2022_Keynote_Klasky.pdf))
 
 **ABSTRACT:** The rapid growth in technology is providing unprecedented opportunities for scientific inquiry. However, dealing with the data produced has resulted in a crisis. Computer speeds are increasing much faster than are storage technology capacities and I/O rates. This ratio is also getting worse for experimental and observational facilities, where for example, the Legacy Survey of Space and Time (LSST) observatory will collect up to 20 TB per night in 2022, yet the Square Kilometre Array will generate over 2 PB per night in 2028. This reality makes it critical for our community to 1) Create efficient mechanisms to move and store the data in a Findable, Addressable, Interoperable, and Reproducible (FAIR) fashion; 2) Create efficient abstractions so that scientists can perform both online and offline analysis in an efficient fashion; 3) Create new reduction algorithms which can be trusted by the scientific community, and which can allow for new ways to not only reduce/compress the data but also to reduce the memory footprint and the overall time spent in analysis.
 
