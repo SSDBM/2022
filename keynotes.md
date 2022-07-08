@@ -7,7 +7,7 @@ layout: default
 
 ## Keynote 1: Christian S. Jensen
 
-**TITLE:** Digitalization in the Service of Society: The Case of Big Vehicle Trajectory Data
+**TITLE:** Digitalization in the Service of Society: The Case of Big Vehicle Trajectory Data ([slides](./assets/slides/SSDBM_2022_Keynote_Jensen.pdf))
 
 **ABSTRACT:** The ongoing, sweeping digitalization of societal processes generates massive volumes of data that capture the underlying processes at an unprecedented level of detail, in turn enabling us to better understand and improve those processes. Put differently, if harnessed properly, data holds the potential to enable value creation throughout society.
 
@@ -22,7 +22,7 @@ This talk will describe how the availability of massive trajectory data renders 
 
 ## Keynote 2: Deb Agarwal
 
-**TITLE:** Applying Data Science in Earth Science to Understand Climate
+**TITLE:** Applying Data Science in Earth Science to Understand Climate ([slides](./assets/slides/SSDBM_2022_Keynote_Agarwal.pdf))
 
 **ABSTRACT:** A challenge in the earth sciences has been obtaining the data needed to enable study and understanding of ecosystems and climate. Through long-term partnerships between data scientists and earth scientists, our teams have been tackling many aspects of this challenge. Our teams are working on the regional scale (e.g., watersheds and other local ecosystems) and the global scale (e.g., global climate models and global sensor networks) to help build the needed capabilities. Data science needs in the earth sciences occur throughout the lifecycle of the data generated in the field, remote sensing, and by models. Through these partnerships we are also beginning to identify the gaps between earth sciences needs and data science/data management tools available from research and industry. This presentation will discuss some of the things we are doing to address data needs in earth sciences and some of the gaps we have encountered.
 
@@ -35,7 +35,7 @@ See <https://dst.lbl.gov/~deba/> for more information.
 
 ## Keynote 3: Scott A. Klasky
 
-**TITLE:** The Data Deluge 
+**TITLE:** The Data Deluge ([slides](./assets/slides/SSDBM_2022_Keynote_Klasky.pdf))
 
 **ABSTRACT:** The rapid growth in technology is providing unprecedented opportunities for scientific inquiry. However, dealing with the data produced has resulted in a crisis. Computer speeds are increasing much faster than are storage technology capacities and I/O rates. This ratio is also getting worse for experimental and observational facilities, where for example, the Legacy Survey of Space and Time (LSST) observatory will collect up to 20 TB per night in 2022, yet the Square Kilometre Array will generate over 2 PB per night in 2028. This reality makes it critical for our community to 1) Create efficient mechanisms to move and store the data in a Findable, Addressable, Interoperable, and Reproducible (FAIR) fashion; 2) Create efficient abstractions so that scientists can perform both online and offline analysis in an efficient fashion; 3) Create new reduction algorithms which can be trusted by the scientific community, and which can allow for new ways to not only reduce/compress the data but also to reduce the memory footprint and the overall time spent in analysis.
 
