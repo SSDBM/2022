@@ -41,11 +41,11 @@ layout: default
 | Time          | Event                                                                                             |
 |---------------|---------------------------------------------------------------------------------------------------|
 | 08:30 - 09:00 | Reigistration with coffee and light breakfast                                                     |
-| 09:00 - 10:15 | **[Keynote 2](./keynotes)** by Deb Agarwal                                                                      |
+| 09:00 - 10:15 | **[Keynote 2](./keynotes.md#keynote-2:-deb-agarwal)** by Deb Agarwal                                                                      |
 | 10:15	- 10:45 | Break	       			                                                                            |
 | 10:45	- 12:15 | **[Research Session 4](#research-session-4)** - Graph Data & Mining <br> Session Chair: Qian Gong                        |
 | 12:15	- 13:45 | Lunch Break		                                                                                |
-| 13:45	- 15:00 | **[Keynote 3](./keynotes)** by Scott Klasky                                                                     |
+| 13:45	- 15:00 | **[Keynote 3](./keynotes.md#keynote-3:-scott-a.-klasky)** by Scott A. Klasky                                                                     |
 | 15:00	- 15:30 | Break					                                                                            |
 | 15:30	- 16:45 | **[Research Session 5](#research-session-5)** - Machine Learning and Applied Computing <br> Session Chair: Xuechen Zhang |
 | 17:00	- 18:30 | Excursion					                                                                        |
@@ -59,7 +59,7 @@ layout: default
 |---------------|---------------------------------------------------------------------------|
 | 08:30 - 09:00 | Reigistration with coffee and light breakfast                             |
 | 09:00 - 09:15 | Announcement of SSDBM 2023                                                |
-| 09:15 - 10:30 | **[Keynote 4](./keynotes)** by Peter Baumann		                                    |
+| 09:15 - 10:30 | **[Keynote 4](./keynotes.md#keynote-4:-peter-baumann)** by Peter Baumann		                                    |
 | 10:30 - 11:00 | Break					                                                    |
 | 11:00 - 12:25 | **[Research Session 6](#research-session-6)** - Data Science <br> Session Chair: Alexander Rasin |
 | 12:25 - 13:55 | Closing and Lunch                                                         |
@@ -73,6 +73,7 @@ layout: default
 ## Day 1 (Wednesday July 6):
 
 ### Research Session 1
+
 | 11:00 - 12:00 | Research Session 1 - Applied computing		                                                                                                                     			                                    |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11:00	- 11:20 | Jonathan Bader, Fabian Lehmann, Lauritz Thamsen, Jonathan Will, Ulf Leser and Odej Kao. Lotaru: Locally Estimating Runtimes of Scientific Workflow Tasks in Heterogeneous Clusters                            |
@@ -80,6 +81,7 @@ layout: default
 | 11:40 - 12:00 | Robin Carpentier, Iulian Sandu Popa and Nicolas Anciaux. Data Leakage Mitigation of User-Defined Functions on Secure Personal Data Management Systems                                                         |
 
 ### Research Session 2
+
 | 13:30 - 14:30 | Research Session 2 - Machine Learning - short papers                                                                                                                                                            |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 13:30 - 13:45 | Matthias Renz, Christian Beth, Fathalla Moreh, Hao Lyu, Steffen Strohm, Zarghaam Haider Rizvi and Frank Wuttke. Crack Detection and Localization based onSpatio-Temporal Data using Residual Networks (short) |				
@@ -88,6 +90,7 @@ layout: default
 | 14:15 - 14:30 | Abdellah Jnaini, Afafe Bettar and Mohammed Amine Koulali. How Powerful are Membership Inference Attacks on Graph Neural Networks? (short)					                                                    |
 
 ### Research Session 3
+
 | 15:00 - 16:25 | Research Session 3 - Indexing & Querying                                                                                                                                                                                                                                              |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15:00 - 15:20 | Brandon Lavinsky and Xuechen Zhang. PM-Rtree: A Highly-Efficient Crash-Consistent R-tree for Persistent Memory	                                                                                               				                                                      |
@@ -101,6 +104,7 @@ layout: default
 ## Day 2 (Thursday July 7):
 
 ### Research Session 4
+
 | 10:45 - 12:15 | Research Session 4 - Graph Data & Mining	                                                                                                                                                                    |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|			
 | 10:45 - 11:05 | Tabea Rettelbach, Moritz Langer, Ingmar Nitze, Benjamin M. Jones, Veit Helm, Johann-Christoph Freytag and Guido Grosse. From Images to Hydrologic Networks - Understanding the Arctic Landscape with Graphs   |
@@ -110,6 +114,7 @@ layout: default
 | 12:00 - 12:15 | Yang Shuang. News topic detection based on the principle of minimum entropy (short)					                                                                                                        |
 
 ### Research Session 5
+
 | 15:30 - 16:45 | Research Session 5 - Machine Learning and Applied Computing		                                                                                                                                                |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15:30 - 15:50 | Abdoulaye Diop, Nabil El Malki, Max Chevalier, André Péninou and Olivier Teste. Impact of similarity measures on clustering mixed data	                                                                    |
@@ -122,6 +127,7 @@ layout: default
 ## Day 3 (Friday July 8):
 
 ### Research Session 6
+
 | 11:00 - 12:10 | Research Session 6 - Data Science					                                                                                                                                                            |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11:00 - 11:20 | Jalal Mostafa, Sara Wehbi, Suren Chilingaryan and Andreas Kopmann. SciTS: A Benchmark for Time-Series Database in Scientific Experiments and Industrial Internet of Things                                    |
