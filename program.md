@@ -59,7 +59,7 @@ layout: default
 |---------------|---------------------------------------------------------------------------|
 | 08:30 - 09:00 | Reigistration with coffee and light breakfast                             |
 | 09:00 - 09:15 | Announcement of SSDBM 2023                                                |
-| 09:15 - 10:30 | **[Keynote 4](./keynotes.md#keynote-4-peter-baumannn)** by Peter Baumann		                                    |
+| 09:15 - 10:30 | **[Keynote 4](./keynotes.md#keynote-4-peter-baumann)** by Peter Baumann		                                    |
 | 10:30 - 11:00 | Break					                                                    |
 | 11:00 - 12:25 | **[Research Session 6](#research-session-6)** - Data Science <br> Session Chair: Alexander Rasin |
 | 12:25 - 13:55 | Closing and Lunch                                                         |
