@@ -49,7 +49,7 @@ To tackle these goals, My group had worked closely with many large-scale applica
 
 ## Keynote 4: Peter Baumann
 
-**TITLE:** The rasdaman Array DBMS: Concepts, Architecture, and What People Do With It
+**TITLE:** The rasdaman Array DBMS: Concepts, Architecture, and What People Do With It ([slides](./assets/slides/SSDBM_2022_Keynote_Baumann.pdf))
 
 **ABSTRACT:** Arrays as a fundamental data category have found their way into the orchestration of data models supported by databases. While OLAP "datacubes" can be emulated relationally to some extent it was in particular applications in science and engineering that have prompted support for arrays regardless of sparsity and with dedicated powerful array operators supporting n-D Tensor Algebra.
 
